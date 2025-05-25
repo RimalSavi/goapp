@@ -15,4 +15,6 @@ func main() {
 
 	fmt.Println(sum)
 	fmt.Println(mult)
+
+	fmt.Println(calculator.Subtract(4, 6))
 }
